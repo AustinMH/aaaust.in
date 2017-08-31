@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2087.5 411 90 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #95989a;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        filter: url(#Path_2);
+      }
+
+      .cls-5 {
+        filter: url(#Rectangle_103);
+      }
+
+      .cls-6 {
+        filter: url(#Ellipse_1);
+      }
+    </style>
+    <filter id="Ellipse_1" x="2098.124" y="422.254" width="18.389" height="19.889" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_103" x="2099.057" y="444.171" width="16.523" height="47.868" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2" x="2123.271" y="442.861" width="45.566" height="49.505" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(2008.5 -51)">
+    <g id="Rectangle_102" data-name="Rectangle 102" class="cls-1" transform="translate(79 462)">
+      <rect class="cls-2" width="90" height="90" rx="14"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="89" height="89" rx="13.5"/>
+    </g>
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, -2008.5, 51)">
+      <g id="Ellipse_1-2" data-name="Ellipse 1" class="cls-1" transform="translate(2099.62 422.25)">
+        <circle class="cls-2" cx="7.694" cy="7.694" r="7.694"/>
+        <circle class="cls-3" cx="7.694" cy="7.694" r="7.194"/>
+      </g>
+    </g>
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, -2008.5, 51)">
+      <g id="Rectangle_103-2" data-name="Rectangle 103" class="cls-1" transform="translate(2100.56 444.17)">
+        <rect class="cls-2" width="13.523" height="43.368"/>
+        <rect class="cls-3" x="0.5" y="0.5" width="12.523" height="42.368"/>
+      </g>
+    </g>
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, -2008.5, 51)">
+      <path id="Path_2-2" data-name="Path 2" class="cls-1" d="M2140,308.441h12.489v5.952s5.2-7.066,11.651-7.127a21.488,21.488,0,0,1,9.45,1.68,14.706,14.706,0,0,1,5.889,5.447c1.728,3.067,1.887,4.539,2.02,9.17s0,27.706,0,27.706h-13.326V327.055s-.808-6.29-4.033-7.55a7.58,7.58,0,0,0-8.493,1.473c-2.7,2.287-2.316,5.785-2.287,7.675s0,22.615,0,22.615H2140Z" transform="translate(-14.73 136.1)"/>
+    </g>
+  </g>
+</svg>

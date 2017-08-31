@@ -98,6 +98,7 @@ strong {
     max-width: 100%;
     min-width: 30px;
     height: auto;
+    max-height: 70px;
     margin: 0 auto;
 }
 
